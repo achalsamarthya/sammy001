@@ -1,3 +1,4 @@
 Hello, this is a new training for GIT
 This is a new line
 Added one more line
+Added next 001 line
